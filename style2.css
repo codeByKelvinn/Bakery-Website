@@ -1,0 +1,44 @@
+body {
+    font-family: Verdana;
+    color: darkslategray;
+    background-color: papayawhip;
+    text-align: center;
+  }
+  
+
+  img {
+    width: 40%;
+    border-radius: 10%;
+    box-shadow: 3px 3px 5px gray;
+    
+    
+  }
+  
+  
+  li {
+    margin-top: 10px;
+    padding: 5px;
+  }
+  
+  .cheesecake {
+    border: 3px solid black;
+    margin: auto 10px;
+    
+  }
+
+
+  .style2 {
+    width: 40%;
+    border-radius: 10%;
+    margin-bottom: 20px;
+        
+  }
+
+  .container {
+    margin: 40px;
+  }
+
+  .description {
+    border-bottom: 2px solid black;
+    padding: 2px;
+  }
